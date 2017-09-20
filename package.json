@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-yandex-metrica",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Exitialis/nuxt-yandex-metrica.git"
+  },
+  "keywords": [
+    "yandex",
+    "metrica",
+    "nuxt",
+    "nuxtjs"
+  ],
+  "author": "Exitialis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exitialis/nuxt-yandex-metrica/issues"
+  },
+  "homepage": "https://github.com/Exitialis/nuxt-yandex-metrica#readme"
+}
